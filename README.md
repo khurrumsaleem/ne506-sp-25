@@ -1,2 +1,4 @@
-# ne506-sp-24
-Homework Templates and Solutions for NE 506: Monte Carlo Particle Transport at the University of Wisconsin -- Madison (Spring 2024)
+# NE506: Practicum in Monte Carlo Particle Transport
+## University of Wisconsin -- Madison
+
+Homework Templates and Solutions for NE 506: Monte Carlo Particle Transport at the University of Wisconsin -- Madison (Spring 2025)
